@@ -1,10 +1,10 @@
-## Godwin Anita .E. | Linux and ServiceNow Portfolio
+## Godwin Anita E. | Linux and ServiceNow Portfolio
 
 I'm building skills in linux administration, Bash scripting, and ServiceNow, with the goal of starting a remote IT or junior platform role.
 
 ## Projects
 
-- **Linux-audits:** A Bash Script that list user accounts on a linux machine as a first step towards a full security audit. *(in progress)*
+- **Linux-audit:** A Bash Script that lists user accounts on a linux machine as a first step towards a full security audit. *(in progress)*
 
 ## Skills 
 
