@@ -5,4 +5,4 @@ echo "Date: $(date)"
 cut -d: -f1 /etc/passwd
 echo ""
 echo "=== Sudo Group Members ==="
-grtent group sudo | cut -d: -f4
+getent group sudo | cut -d: -f4
