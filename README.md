@@ -4,7 +4,7 @@ I'm building skills in Linux administration, Bash scripting, and ServiceNow, wit
 
 # Projects
 
-- **Linux-audit:** A Bash script that lists user accounts and sudo group members on a Linux machine, as a first step towards a dull security audit. *(in progress)
+- **Linux-audit:** A Bash script that lists user accounts and sudo group members on a Linux machine, as a first step towards a full security audit. *(in progress)
 
 # Skills 
 
